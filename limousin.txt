@@ -1,0 +1,3 @@
+Hammer H2|300 3.9 2000 15
+Lincoln Town Car|270 2.8 3000 12
+Mersedes W100|245 3.3 4000 5

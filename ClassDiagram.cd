@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutoStation">
+    <Position X="27.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAECAAAAAAGAAAgAAQgAAAAAABAAAAAgAAAAAEA=</HashCode>
+      <FileName>AutoStation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cabriolet">
+    <Position X="37" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAACAEAIBAQkAAAABAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Cabriolet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="31.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIEQCAQAAACAAAAQAICgAAAAAAAgAAAgAAAACAI=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoCars">
+    <Position X="29.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIiAICAgAIAAQgAAAACIAAgAAAgAAAAAAA=</HashCode>
+      <FileName>CargoCars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarsForSale">
+    <Position X="29.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAKAAAAAQAAAEAAAAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>CarsForSale.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerException">
+    <Position X="29.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAQQAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ContainerException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExceptionType">
+    <Position X="32.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAgAAAAEAAAAAA=</HashCode>
+      <FileName>ExceptionType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File">
+    <Position X="36" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputException">
+    <Position X="34.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAQAEAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface">
+    <Position X="25.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAQBAAAAAABAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Limousin">
+    <Position X="35" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAADAAAIEAQgAAQAAAAQAAAAgAAAAAEA=</HashCode>
+      <FileName>Limousin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node&lt;Type&gt;">
+    <Position X="24" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABQAAUAAQA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassCars">
+    <Position X="31.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAACAADAAAIEAQgAAAAAAARAAAUgAAAAAAQ=</HashCode>
+      <FileName>PassCars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentCars">
+    <Position X="34.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAACAACIAAAAAAAAAAAAAAAAAACgAIAAAAA=</HashCode>
+      <FileName>RentCars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportCars">
+    <Position X="27.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAAACAACACAIAAYgAAAAAAAAAAAAgAAAAAAg=</HashCode>
+      <FileName>SportCars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree&lt;Type&gt;">
+    <Position X="25.75" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Tree&lt;Type&gt;::Iterator">
+        <TypeIdentifier>
+          <NewMemberFileName>Tree.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AKKAAAAAAgCAAAAAAAAoAAAEAAAAEAAAAQABYAAIAAA=</HashCode>
+      <FileName>Tree.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="root" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TxtFile">
+    <Position X="36" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAAoAIAAAAgEAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>TxtFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VintageCars">
+    <Position X="33" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgCACAACAAIIAAQgAAAAAAAAACAAgAAAAAAA=</HashCode>
+      <FileName>VintageCars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Date">
+    <Position X="24" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAQAAAAQAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
